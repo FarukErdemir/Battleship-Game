@@ -10,9 +10,13 @@ Amiral Battı 2 oyuncuyla oynanan sıra tabanlı tahmine dayalı bir strateji oy
 Her oyuncu toplam 5 gemiye sahiptir.
 
 Uçak     gemisi 1 adet (5 Karo) Aircraft Carrier
+
 Kruvazör gemi   1 adet (4 karo) Battleship
+
 Muhrip   gemi   2 adet (3 karo) Destroyer
+
 Hücum    Bot    1 adet (2 karo) Patrol Boat
+
 
 Oyun toplam 100 karoya sahip bir kare alanda oynanır.
 
