@@ -23,13 +23,18 @@ Oyun toplam 100 karoya sahip bir kare alanda oynanır.
 Kurallar
 
 her tur sadece 1 atış yapılır
+
 tur sonunda savunan taraf isabet olup olmadığını belirtir
+
 eğer isabet varsa hangi gemiye isabet ettiğini rakibe söylemelidir
+
 rakibin tüm gemilerini batıran oyunu kazanır
 
-gemiler oyun alanına yerleştirilirken çapraz yerleştirilemez .
+gemiler oyun alanına yerleştirilirken çapraz yerleştirilemez.
+
 gemiler üst üste çakışamaz veya oyun alanı dışına taşamaz
 
 gemiler dip dibe yerleştirilebilir. arada bir karo boşluk bırakılmasına gerek yoktur
+
 
 Hava Savunma-Saldırı ve Denizaltı özel saldırılar v2.0
