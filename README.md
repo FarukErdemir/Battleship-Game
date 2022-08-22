@@ -1,11 +1,11 @@
 # Battleship-Game
 Battleship game with LAN server (C#)
 
-AMİRAL BATTI BATTLESHIP v1.0
+..::AMİRAL BATTI BATTLESHIP v1.0::..
 
 Amiral Battı 2 oyuncuyla oynanan sıra tabanlı tahmine dayalı bir strateji oyunudur.
 
-İçerik
+..::İçerik::..
 
 Her oyuncu toplam 5 gemiye sahiptir.
 
@@ -20,7 +20,7 @@ Hücum    Bot    1 adet (2 karo) Patrol Boat
 
 Oyun toplam 100 karoya sahip bir kare alanda oynanır.
 
-Kurallar
+..::Kurallar::..
 
 her tur sadece 1 atış yapılır
 
