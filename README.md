@@ -18,3 +18,6 @@ her tur sadece 1 atış yapılır
 rakibin tüm gemilerini batıran oyunu kazanır
 
 gemiler dip dibe yerleştirilebilir. arada bir karo boşluk bırakılmasına gerek yoktur
+
+TCP tam entegre edilemediği için bot eklendi.
+TCP daha sornra eklenecek
